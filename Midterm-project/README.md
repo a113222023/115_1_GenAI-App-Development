@@ -40,7 +40,7 @@
 ## 四、環境、交付與反思
 
 Python／Streamlit／OpenAI SDK／python-dotenv 實際版本：待填。採 Pydantic 者另填其實際版本。
-GitHub：[待填](https://github.com/a113222023/115_1_GenAI-App-Development.git)。啟動方式：streamlit run app.py。Streamlit Community Cloud部署網址（必填）：1151genai-app-development-xs9wprpiwcn3rn7degtfzt。
+GitHub：[待填](https://github.com/a113222023/115_1_GenAI-App-Development.git)。啟動方式：streamlit run app.py。Streamlit Community Cloud部署網址（必填）：https://1151genai-app-development-fbhdybung6jjrufx86bxtz.streamlit.app/。
 部署Repo／分支／入口、Cloud實際Python版本、驗收日期與結果：待填。老師觀看權限確認：待填。
 部署為必做；未部署或未通過者如實記錄錯誤與待補驗項目，依老師公告期限完成，不以本機截圖代替。
 本次實際請求數／追加測試數：待填。尚未完成的驗證：待填。
